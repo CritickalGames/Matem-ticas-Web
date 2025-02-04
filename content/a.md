@@ -6,7 +6,17 @@ nombres = ['Albaca1','Albaca2']
 +++
 
 # A
+{{< highlight go >}}
+package main
 
-sigamos asi
---Ziro-- ^^
-         ——
+import "fmt"
+
+func main() {
+    fmt.Println("Hola Mundo")
+}
+{{< /highlight >}}
+
+
+
+
+
